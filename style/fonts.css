@@ -1,0 +1,38 @@
+/***======================= FONTS-SETTING =======================***/
+/***============================================================***/
+
+/* 1.Verdana *************************/
+/****************************************************/
+@font-face {
+	/* name font */
+	font-family: 'comforta-r';
+	/* URL font and type */
+	src: url("../fonts/Comfortaa-Regular.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+} 
+@font-face {
+	/* name font */
+	font-family: 'comforta-b';
+	/* URL font and type */
+	src: url("../fonts/Comfortaa-Bold.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: bold;
+}
+
+@font-face {
+	/* name font */
+	font-family: 'raleway-r';
+	/* URL font and type */
+	src: url("../fonts/Raleway-Regular.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal; 
+} 
+@font-face {
+	/* name font */
+	font-family: 'raleway-b';
+	/* URL font and type */
+	src: url("../fonts/Raleway-Bold.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: bold;
+}
